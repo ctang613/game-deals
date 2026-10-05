@@ -57,6 +57,10 @@ function dealCount(platformId) {
   return state.data.deals.filter((deal) => platformId === "all" || deal.platform === platformId).length;
 }
 
+function numericDiscount(deal) {
+  return typeof deal.discount === "number" && Number.isFinite(deal.discount) ? deal.discount : null;
+}
+
 function thumb(imageUrl, platform) {
   const wrap = el("div", "thumb");
   wrap.dataset.platform = platform;
@@ -137,7 +141,14 @@ function renderDeals() {
   const items = state.data.deals
     .filter(matches)
     .slice()
-    .sort((a, b) => b.discount - a.discount || a.title.localeCompare(b.title, "zh-Hant"));
+    .sort((a, b) => {
+      const left = numericDiscount(a);
+      const right = numericDiscount(b);
+      if (left == null && right == null) return a.title.localeCompare(b.title, "zh-Hant");
+      if (left == null) return 1;
+      if (right == null) return -1;
+      return right - left || a.title.localeCompare(b.title, "zh-Hant");
+    });
   const root = document.getElementById("deals");
   document.getElementById("deals-count").textContent = `${items.length} 個 · 折扣高至低`;
   root.replaceChildren();
@@ -156,7 +167,8 @@ function renderDeals() {
     }
     const media = el("div", "media");
     media.appendChild(thumb(deal.image, deal.platform));
-    media.appendChild(el("span", "off", `-${deal.discount}%`));
+    const discount = numericDiscount(deal);
+    if (discount != null) media.appendChild(el("span", "off", `-${discount}%`));
     media.appendChild(el("span", `chip ${deal.platform}`, PLATFORM_SHORT[deal.platform] || deal.platform));
     card.appendChild(media);
 
@@ -171,7 +183,8 @@ function renderDeals() {
     body.appendChild(meta);
 
     const prices = el("div", "price-row");
-    prices.append(el("span", "price", deal.price), el("span", "was", deal.was));
+    prices.appendChild(el("span", "price", deal.price));
+    if (deal.was) prices.appendChild(el("span", "was", deal.was));
     body.appendChild(prices);
     card.appendChild(body);
     root.appendChild(card);
