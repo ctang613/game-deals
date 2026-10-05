@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>打機佬 · 今晚特價</title>
+    <meta
+      name="description"
+      content="打機佬：Steam、Nintendo Switch、PlayStation 今晚特價同消息。畫面由 data.json 驅動。"
+    />
+    <meta name="theme-color" content="#14110e" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect fill='%2314110e' width='32' height='32'/%3E%3Ctext x='16' y='22' text-anchor='middle' font-size='16' fill='%23e7a322' font-family='sans-serif'%3E%E4%BB%94%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="mast">
+      <p class="chop">今晚</p>
+      <div>
+        <p class="kicker" id="kicker">載入緊…</p>
+        <h1>打機佬</h1>
+        <p class="lede" id="lede"></p>
+      </div>
+    </header>
+
+    <nav id="filters" class="filters" aria-label="平台"></nav>
+
+    <main>
+      <section aria-labelledby="news-heading">
+        <div class="section-head">
+          <h2 id="news-heading">消息</h2>
+          <p id="news-count" class="count"></p>
+        </div>
+        <div id="news" class="news"></div>
+      </section>
+
+      <section aria-labelledby="deals-heading">
+        <div class="section-head">
+          <h2 id="deals-heading">特價</h2>
+          <p id="deals-count" class="count"></p>
+        </div>
+        <div id="deals" class="deals"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        價錢會變。Steam 港區價係 2026-10-05 用商店 API 對過；Switch／PS 跟當日公開報道，買之前再睇商店頁。
+      </p>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
