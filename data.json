@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-06T07:30:27+08:00",
-  "headline": "10月6日早。Steam／Switch／PS 均為港區／港服 HK$；資料來自打機佬群今朝精選。",
+  "updated": "2026-10-06T07:41:50+08:00",
+  "headline": "10月6日早。Steam／Switch／PS 均為港區／港服 HK$；含 PS哥補報 GT7／Spider-Man 2 等（約 10/7 22:59 HKT 完）。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 港區價由 Steam Store API（07:25 HKT）；Switch 由任天堂 HK 價格 API（07:24 HKT）；PS 跟港服商品頁／秋季冒險（約至 10/7）。買之前再睇商店頁。",
+  "note": "價錢會變。Steam 港區價由 Steam Store API；Switch 由任天堂 HK 價格 API；PS 跟港服商品頁（多款至 10/7 22:59 HKT）。買之前再睇商店頁。",
   "platforms": [
     {
       "id": "all",
@@ -98,7 +98,7 @@
       "source": "PlayStation.Blog",
       "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
       "region": "HK",
-      "image": "https://blog.playstation.com/tachyon/sites/9/2025/09/ps-plus-october.jpg"
+      "image": "https://blog.playstation.com/tachyon/2026/09/d9cf749a1a4850fd0969ccb3a83cb907c56f640a.jpg"
     },
     {
       "id": "ps-spiderman-avatars",
@@ -115,12 +115,34 @@
       "id": "ps-autumn-ends",
       "platform": "ps",
       "date": "2026-10-06",
-      "title": "港服秋季冒險約聽日 10/7 完",
-      "summary": "PlayStation Store 香港秋季冒險約至 10/7；想入嘅盡快下手。",
-      "source": "PlayStation Store 香港",
-      "url": "https://store.playstation.com/zh-hant-hk/category/c3385977-04de-4e2e-9681-e9004e0749dd/",
+      "title": "港服多款大作約聽日 10/7 22:59 HKT 完",
+      "summary": "GT7、Spider-Man 2、人中之龍8、FFXVI 等約至 10/7 22:59 HKT；想入嘅盡快下手。",
+      "source": "PS哥群報",
+      "url": "https://store.playstation.com/zh-hant-hk/",
       "region": "HK",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/0kRqUeSBIbQzz7cen3c989c6.jpg"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png"
+    },
+    {
+      "id": "ps-qssr",
+      "platform": "ps",
+      "date": "2026-10-06",
+      "title": "AI 升頻 QSSR 登上 PS5",
+      "summary": "PlayStation：AI upscaling（QSSR）即將上 PS5。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+      "region": "HK",
+      "image": "https://blog.playstation.com/tachyon/2026/10/5f2b04388e41b48507f4c8d57ce8f53bd059f03a.jpg"
+    },
+    {
+      "id": "ps-wolf-remastered",
+      "platform": "ps",
+      "date": "2026-10-06",
+      "title": "The Wolf Among Us Remastered 10/29 推出",
+      "summary": "重返 Fabletown；Remastered 定 10/29 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/01/return-to-fabletown-with-the-wolf-among-us-remastered-out-october-29/",
+      "region": "HK",
+      "image": "https://blog.playstation.com/tachyon/2028/10/53e5b5ddaedc26a7a948ac0f664c652621b5e791.png"
     }
   ],
   "deals": [
@@ -319,6 +341,71 @@
       "url": "https://store.nintendo.com.hk/70010000013581",
       "source": "Switch仔群報",
       "image": "https://www.nintendo.com/hk/software/img/bnr/70010000013581.jpg"
+    },
+    {
+      "id": "gt7-hk",
+      "platform": "ps",
+      "title": "跑車浪漫旅 7",
+      "discount": 58,
+      "price": "HK$238.56",
+      "was": "HK$568",
+      "region": "港服 PS Store",
+      "ends": "2026-10-07",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP9000-PPSA01318_00-GT7STD0000000PS5",
+      "source": "PS哥群報",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/yZ7dpmjtHr1olhutHT57IFRh.png"
+    },
+    {
+      "id": "spiderman-2-hk",
+      "platform": "ps",
+      "title": "Marvel's Spider-Man 2",
+      "discount": 58,
+      "price": "HK$238.56",
+      "was": "HK$568",
+      "region": "港服 PS Store",
+      "ends": "2026-10-07",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP9000-PPSA08340_00-MARVELSPIDERMAN2",
+      "source": "PS哥群報",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png"
+    },
+    {
+      "id": "yakuza-8-ultimate-hk",
+      "platform": "ps",
+      "title": "人中之龍8 終極版",
+      "discount": 75,
+      "price": "HK$154.50",
+      "was": "HK$618",
+      "region": "港服 PS Store",
+      "ends": "2026-10-07",
+      "url": "https://store.playstation.com/zh-hant-hk/product/JP0177-PPSA06433_00-ULTIMATEEDITIONA",
+      "source": "PS哥群報",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0601/fef8c5edbb3ae871fd48faf7ff8534ca653a69d8a8f905b6.png"
+    },
+    {
+      "id": "skyrim-se-ps-hk",
+      "platform": "ps",
+      "title": "Skyrim Special Edition",
+      "discount": 75,
+      "price": "HK$77.50",
+      "was": "HK$310",
+      "region": "港服 PS Store",
+      "ends": "2026-10-07",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP1003-PPSA04637_00-TESVSKYRIM000000",
+      "source": "PS哥群報",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2818/FuG72QFUf4aRYbSBAMNH2xwm.png"
+    },
+    {
+      "id": "ff16-hk",
+      "platform": "ps",
+      "title": "FINAL FANTASY XVI",
+      "discount": 60,
+      "price": "HK$159.20",
+      "was": "HK$398",
+      "region": "港服 PS Store",
+      "ends": "2026-10-07",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA10666_00-FF16ASIA00000002",
+      "source": "PS哥群報",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1404/RMELUDlp2uzJ3EmsVhzr00A6.png"
     },
     {
       "id": "op4-hk",
