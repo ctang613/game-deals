@@ -2,10 +2,22 @@
   "updated": "2026-10-05T20:17:45+08:00",
   "headline": "10月5日晚。Steam 係港區商店即時價；Switch 跟港服 eShop 港幣價；PS 跟港服 PS Store 港幣價。",
   "platforms": [
-    { "id": "all", "label": "全部" },
-    { "id": "steam", "label": "Steam" },
-    { "id": "switch", "label": "Switch" },
-    { "id": "ps", "label": "PS" }
+    {
+      "id": "all",
+      "label": "全部"
+    },
+    {
+      "id": "steam",
+      "label": "Steam"
+    },
+    {
+      "id": "switch",
+      "label": "Switch"
+    },
+    {
+      "id": "ps",
+      "label": "PlayStation"
+    }
   ],
   "news": [
     {
@@ -15,7 +27,9 @@
       "title": "港區 Steam 一折仲未收",
       "summary": "今晚商店 API 仲係 Death's Door HK$12.50、The Talos Principle 2 HK$18.70、The Outlast Trials HK$24.80、怪獵崛起 HK$29.80。Loot.hk 寫呢批特別促銷去到 10月8日。",
       "source": "Steam Store API、Loot.hk",
-      "url": "https://store.steampowered.com/specials?cc=hk"
+      "url": "https://store.steampowered.com/specials?cc=hk",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg"
     },
     {
       "id": "steam-bandai",
@@ -24,7 +38,9 @@
       "title": "萬代南夢宮秋季特賣去到 10月9日",
       "summary": "《黑暗靈魂 Remastered》港區今晚五折，HK$129.50（原價 HK$259）。UDN 引官方話特賣包《鐵拳8》同《數碼寶貝物語 時空異客》，有作品一折起，至 10月9日。",
       "source": "Steam Store API、UDN",
-      "url": "https://tech.udn.com/tech/story/123158/9795340"
+      "url": "https://tech.udn.com/tech/story/123158/9795340",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg"
     },
     {
       "id": "switch-kh-collection",
@@ -33,7 +49,9 @@
       "title": "Kingdom Hearts Collection 上 Switch 2 榜／預購",
       "summary": "Square Enix Asia：KINGDOM HEARTS Collection [I～III] 將於 2026-10-08 登陸 Nintendo Switch 2，同日亦上 PS5 等平台，數位版已可預購。",
       "source": "Square Enix Asia",
-      "url": "https://www.square-enix.com/asia/newsportal/en/topics/KH4/post01.html"
+      "url": "https://www.square-enix.com/asia/newsportal/en/topics/KH4/post01.html",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg"
     },
     {
       "id": "switch-witcher3-remaster",
@@ -42,7 +60,9 @@
       "title": "Witcher 3 Remastered（Switch 2）上線／評測焦點",
       "summary": "CD PROJEKT RED：The Witcher 3: Wild Hunt — Remastered 已於 2026-09-29 上 Nintendo Switch 2。原 Switch 版持有者可免費領取，不過係獨立下載，唔係自動升級。",
       "source": "CD PROJEKT RED Press",
-      "url": "https://press.cdprojektred.com/en/news/1874/the-witcher-3-wild-hunt-remastered-available-now"
+      "url": "https://press.cdprojektred.com/en/news/1874/the-witcher-3-wild-hunt-remastered-available-now",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg"
     },
     {
       "id": "switch-zelda-40-console",
@@ -51,11 +71,15 @@
       "title": "薩爾達 40 週年特別版主機（日本）約 10/29",
       "summary": "任天堂公布日本發售「Nintendo Switch 2（日本語・國內專用）薩爾達傳說 40 週年 Anniversary Edition」，2026-10-29，建議售價 62,980 日圓（含稅），不附遊戲。買前請對照任天堂官方同當地店。",
       "source": "任天堂（日本）",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260908_2.html"
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260908_2.html",
+      "region": "日本",
+      "image": "https://www.nintendo.co.jp/corporate/release/en/2026/img_260908_2/sns.png?20260908"
     },
     {
       "id": "ps-qssr",
       "platform": "ps",
+      "region": "HK",
+      "image": "https://blog.playstation.com/tachyon/2026/10/5f2b04388e41b48507f4c8d57ce8f53bd059f03a.jpg",
       "date": "2026-10-05",
       "title": "QSSR 升頻技術上 PS5",
       "summary": "PlayStation.Blog：標準 PS5 新增 Quick Spectral Super Resolution（QSSR）AI 升頻。Marvel's Wolverine 同 Ghost of Yōtei 係首批支援作品。",
@@ -69,11 +93,15 @@
       "title": "10 月 PS Plus 會免（約 10/6 起）",
       "summary": "PlayStation.Blog：10月會免由 10月6日至 11月2日，F1 25（PS5）、Hunt: Showdown 1896（PS5）、Earth Defense Force: World Brothers 2（PS5／PS4）。",
       "source": "PlayStation.Blog",
-      "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/"
+      "url": "https://blog.playstation.com/2026/09/30/playstation-plus-monthly-games-for-october-f1-25-hunt-showdown-1896-earth-defense-force-world-brothers-2/",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg"
     },
     {
       "id": "ps-yotei-complete",
       "platform": "ps",
+      "region": "HK",
+      "image": "https://blog.playstation.com/tachyon/2026/08/431b511cba1d3f359f6c475c9f98292f9cee2006.jpg",
       "date": "2026-10-05",
       "title": "羊蹄山戰鬼完全版上 PS5",
       "summary": "PlayStation.Blog：《羊蹄山戰鬼》完全版（Ghost of Yōtei Complete Edition）收錄本篇同奇譚模式；〈弦續關原〉同〈無盡追緝〉隨 10月1日更新推出（亞洲部分地區為 10月2日）。",
@@ -92,7 +120,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/894020/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg"
     },
     {
       "id": "talos-2",
@@ -104,7 +133,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/835960/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg"
     },
     {
       "id": "ori-wotw",
@@ -116,7 +146,8 @@
       "region": "港區",
       "ends": null,
       "url": "https://store.steampowered.com/app/1057090/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg"
     },
     {
       "id": "outlast-trials",
@@ -128,7 +159,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/1304930/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/header.jpg"
     },
     {
       "id": "mh-rise-steam",
@@ -140,7 +172,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/1446780/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg"
     },
     {
       "id": "oni",
@@ -152,7 +185,8 @@
       "region": "港區",
       "ends": "2026-10-15",
       "url": "https://store.steampowered.com/app/457140/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg"
     },
     {
       "id": "ruina",
@@ -164,7 +198,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/1256670/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/header.jpg"
     },
     {
       "id": "outer-wilds",
@@ -176,7 +211,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/753640/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg"
     },
     {
       "id": "ff7r-intergrade",
@@ -188,7 +224,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/1462040/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg"
     },
     {
       "id": "ff7-rebirth",
@@ -200,7 +237,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/2909400/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg"
     },
     {
       "id": "hoi4",
@@ -212,7 +250,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/394360/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg"
     },
     {
       "id": "sf6",
@@ -224,7 +263,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/1364780/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg"
     },
     {
       "id": "rdr2",
@@ -236,7 +276,8 @@
       "region": "港區",
       "ends": null,
       "url": "https://store.steampowered.com/app/1174180/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg"
     },
     {
       "id": "cyberpunk",
@@ -248,7 +289,8 @@
       "region": "港區",
       "ends": null,
       "url": "https://store.steampowered.com/app/1091500/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/3bd292808ba9d8a337c5278acb8345d94ed769a3/header_tchinese.jpg"
     },
     {
       "id": "p3r",
@@ -260,7 +302,8 @@
       "region": "港區",
       "ends": "2026-10-08",
       "url": "https://store.steampowered.com/app/2161700/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg"
     },
     {
       "id": "dsr",
@@ -272,7 +315,8 @@
       "region": "港區",
       "ends": "2026-10-09",
       "url": "https://store.steampowered.com/app/570940/?cc=hk",
-      "source": "Steam Store API"
+      "source": "Steam Store API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg"
     },
     {
       "id": "mh-rise-hk",
@@ -284,7 +328,8 @@
       "region": "港服 eShop",
       "ends": "2026-10-12",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000029013",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg"
     },
     {
       "id": "yozora-remaster-hk",
@@ -296,7 +341,8 @@
       "region": "港服 eShop",
       "ends": "2026-10-18",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000013581",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738540/header.jpg"
     },
     {
       "id": "bravely-default-2-hk",
@@ -308,7 +354,8 @@
       "region": "港服 eShop",
       "ends": "2026-10-07",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000035960",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446650/header.jpg"
     },
     {
       "id": "ffxii-hk",
@@ -320,7 +367,8 @@
       "region": "港服 eShop",
       "ends": "2026-10-07",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000016505",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595520/header.jpg"
     },
     {
       "id": "ace-attorney-123-hk",
@@ -332,7 +380,8 @@
       "region": "港服 eShop",
       "ends": "2026-10-12",
       "url": "https://ec.nintendo.com/HK/zh/titles/70010000015845",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787480/header.jpg"
     },
     {
       "id": "ff7-rebirth-dd-hk",
@@ -344,7 +393,8 @@
       "region": "港服 PS Store",
       "ends": "2026-10-07",
       "url": "https://store.playstation.com/zh-hant-hk/product/HP0082-PPSA08670_00-0978938405039882",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3008/a7c4b3d9e49a45c430f3a11c5b8a783bc75d49546dec72ae.jpg"
     },
     {
       "id": "bloodborne-old-hunters-hk",
@@ -356,7 +406,8 @@
       "region": "港服 PS Store",
       "ends": "2026-10-07",
       "url": "https://store.playstation.com/zh-hant-hk/product/HP9000-CUSA03023_00-BLOODBORNE0000AS",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1317/vyn7ozdBhWPEYZGImLQGWSPd.jpg"
     },
     {
       "id": "dos2-hk",
@@ -368,7 +419,8 @@
       "region": "港服 PS Store",
       "ends": "2026-10-07",
       "url": "https://store.playstation.com/zh-hant-hk/product/EP3383-PPSA06866_00-ORIGINALSIN2XPS5",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0115/222983883aef8f0874964690b7657024e16b935147710a5c.jpg"
     },
     {
       "id": "dave-diver-hk",
@@ -380,7 +432,8 @@
       "region": "港服 PS Store",
       "ends": "2026-10-07",
       "url": "https://store.playstation.com/zh-hant-hk/product/UP8236-PPSA19115_00-0015587721224151",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg"
     },
     {
       "id": "alan-wake-2-deluxe-hk",
@@ -392,7 +445,11 @@
       "region": "港服 PS Store",
       "ends": "2026-10-07",
       "url": "https://store.playstation.com/zh-hant-hk/product/UP1477-PPSA02571_00-AW2DELUXEEDITION",
-      "source": "商店頁"
+      "source": "商店頁",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2601/47b97b7a4e7493d9701c7ecabdbdfff0ea49c61effeb6299.jpg"
     }
-  ]
+  ],
+  "region": "HK",
+  "currency": "HKD",
+  "note": "價錢會變。Steam 港區價係 2026-10-05 用商店 API 對過。Switch／PS 跟香港商店頁。買之前再睇一次。"
 }
