@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T07:34:13+08:00",
-  "headline": "10月13日早。Steam／Switch／PS 港區／港服 HK$；秋促尾班已剔走。",
+  "updated": "2026-10-13T07:45:00+08:00",
+  "headline": "10月13日早。Steam／Switch／PS 港區／港服 HK$；含 MK11 終極／Civ6 白金／KCD2／Battlefield 6。",
   "region": "HK",
   "currency": "HKD",
   "note": "價錢會變。Steam 完結日以商店頁倒數為準；Switch 由任天堂 HK 價格 API；PS 玩家之选約至 10/21 22:59 HKT。買之前再睇商店頁。",
@@ -108,6 +108,39 @@
       "summary": "Mycopunk 確認 10/20 入 Extra；其餘片單預計 10/14 公布。",
       "source": "Push Square",
       "url": "https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-qssr",
+      "platform": "ps",
+      "date": "2026-10-13",
+      "title": "AI upscaling（QSSR）登陸 PS5",
+      "summary": "Marvel’s Wolverine、Ghost of Yōtei 率先支援。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-warhammer-survivors",
+      "platform": "ps",
+      "date": "2026-10-13",
+      "title": "Warhammer Survivors 11 月 10 日上市",
+      "summary": "新角色公開；11/10 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-marvel-tokon",
+      "platform": "ps",
+      "date": "2026-10-13",
+      "title": "Phoenix Cyclops 加入 MARVEL Tōkon（11 月 2 日）",
+      "summary": "Phoenix Cyclops 11/2 加入 MARVEL Tōkon: Fighting Souls。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/07/phoenix-cyclops-joins-marvel-tokon-fighting-souls-on-november-2/",
       "region": "HK",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     }
@@ -346,6 +379,58 @@
       "url": "https://store.playstation.com/zh-hant-hk/product/UP1001-PPSA01492_00-TTWSSTANDPS5SIEA",
       "source": "PS哥群報",
       "image": "https://vulcan.dl.playstation.net/ap/rnd/202108/0511/LlliCE3d9KEmqBtqbn5VpCtJ.png"
+    },
+    {
+      "id": "mk11-ultimate",
+      "platform": "switch",
+      "title": "真人快打11終極版",
+      "discount": 90,
+      "price": "HK$46",
+      "was": "HK$468",
+      "region": "港服 eShop",
+      "ends": "2026-10-14",
+      "url": "https://store.nintendo.com.hk/70070000011265",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/70070000011265.jpg"
+    },
+    {
+      "id": "civ6-platinum",
+      "platform": "switch",
+      "title": "文明帝國VI 白金版",
+      "discount": 70,
+      "price": "HK$113",
+      "was": "HK$379",
+      "region": "港服 eShop",
+      "ends": "2026-10-25",
+      "url": "https://store.nintendo.com.hk/70070000012608",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/HACYARNGG000001.jpg"
+    },
+    {
+      "id": "kcd2-ps",
+      "platform": "ps",
+      "title": "Kingdom Come: Deliverance II",
+      "discount": 65,
+      "price": "HK$198.80",
+      "was": "HK$568",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP4062-PPSA21704_00-KCD2MAINGAMEDSEU",
+      "source": "PS哥群報",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png"
+    },
+    {
+      "id": "bf6-ps",
+      "platform": "ps",
+      "title": "戰地風雲™ 6",
+      "discount": 60,
+      "price": "HK$219.60",
+      "was": "HK$549",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP0006-PPSA19534_00-SANTIAGOSTANDARD",
+      "source": "PS哥群報",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png"
     }
   ]
 }
