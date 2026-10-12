@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-13T07:45:00+08:00",
-  "headline": "10月13日早。Steam／Switch／PS 港區／港服 HK$；含 MK11 終極／Civ6 白金／KCD2／Battlefield 6。",
+  "updated": "2026-10-13T07:55:00+08:00",
+  "headline": "10月13日。Steam Weeklong（約至10/19）含 Halo MCC；Switch 明日完結有 MK11／Scribblenauts；PS 玩家之选至10/21。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 完結日以商店頁倒數為準；Switch 由任天堂 HK 價格 API；PS 玩家之选約至 10/21 22:59 HKT。買之前再睇商店頁。",
+  "note": "價錢會變。Steam Weeklong 約至 10/19；Switch 部分明日 10/14 完；PS 玩家之选約至 10/21 22:59 HKT。買之前再睇商店頁。",
   "platforms": [
     {
       "id": "all",
@@ -23,6 +23,17 @@
     }
   ],
   "news": [
+    {
+      "id": "steam-weeklong-oct",
+      "platform": "steam",
+      "date": "2026-10-13",
+      "title": "Steam Weeklong Deals（約 12–19 Oct）",
+      "summary": "Weeklong 特賣進行中，折扣可達約九成；港區有 Halo MCC 等。",
+      "source": "Steam",
+      "url": "https://store.steampowered.com/search?filter=weeklongdeals&cc=hk",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593110/header.jpg"
+    },
     {
       "id": "steam-next-fest-oct",
       "platform": "steam",
@@ -146,6 +157,32 @@
     }
   ],
   "deals": [
+    {
+      "id": "halo-mcc",
+      "platform": "steam",
+      "title": "Halo: The Master Chief Collection",
+      "discount": 75,
+      "price": "HK$74.75",
+      "was": "HK$299.00",
+      "region": "港區",
+      "ends": "2026-10-19",
+      "url": "https://store.steampowered.com/app/976730/",
+      "source": "Steam Weeklong Deals",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg"
+    },
+    {
+      "id": "cult-lamb",
+      "platform": "steam",
+      "title": "Cult of the Lamb",
+      "discount": 50,
+      "price": "HK$64.00",
+      "was": "HK$128.00",
+      "region": "港區",
+      "ends": "2026-10-19",
+      "url": "https://store.steampowered.com/app/1313140/",
+      "source": "Steam Weeklong Deals",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/header.jpg"
+    },
     {
       "id": "tww3",
       "platform": "steam",
