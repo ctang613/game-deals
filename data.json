@@ -165,10 +165,10 @@
       "price": "HK$74.75",
       "was": "HK$299.00",
       "region": "港區",
-      "ends": "2026-10-19",
       "url": "https://store.steampowered.com/app/976730/",
       "source": "Steam Weeklong Deals",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數。"
     },
     {
       "id": "cult-lamb",
