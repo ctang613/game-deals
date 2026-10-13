@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:42:06+08:00",
+  "updated": "2026-10-14T07:56:43+08:00",
   "headline": "10月14日早。Steam Weeklong／Switch／PS 港區／港服 HK$；今晚完 MK11／Scribblenauts／樂高。",
   "region": "HK",
   "currency": "HKD",
@@ -165,10 +165,24 @@
       "price": "HK$74.75",
       "was": "HK$299.00",
       "region": "港區",
+      "ends": "2026-10-20",
       "url": "https://store.steampowered.com/app/976730/?cc=hk",
       "source": "Steam 港區 API",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
-      "note": "完結日跟 Steam 商店頁倒數（Weeklong 約至 10/19）。"
+      "note": "完結日跟 Steam 商店頁倒數（10/20 01:00 HKT）。"
+    },
+    {
+      "id": "arc-raiders",
+      "platform": "steam",
+      "title": "ARC Raiders",
+      "discount": 50,
+      "price": "HK$154.50",
+      "was": "HK$309",
+      "region": "港區",
+      "ends": "2026-10-16",
+      "url": "https://store.steampowered.com/app/1808500/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg"
     },
     {
       "id": "rdr2",
