@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:28:34+08:00",
+  "updated": "2026-10-14T07:42:06+08:00",
   "headline": "10月14日早。Steam Weeklong／Switch／PS 港區／港服 HK$；今晚完 MK11／Scribblenauts／樂高。",
   "region": "HK",
   "currency": "HKD",
@@ -121,6 +121,39 @@
       "url": "https://www.nintendo.com/us/whatsnew/step-into-a-brand-new-just-dance-experience/",
       "region": "HK",
       "image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/c_fill,w_1200/ncom/en_US/articles/2026/step-into-a-brand-new-just-dance-experience/2250x1266_availablenow_4"
+    },
+    {
+      "id": "ps-helldivers-warbond",
+      "platform": "ps",
+      "date": "2026-10-14",
+      "title": "Helldivers 2：Scope of Authority Warbond（10/20）",
+      "summary": "Premium Warbond 10/20 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-escape-academy-2",
+      "platform": "ps",
+      "date": "2026-10-14",
+      "title": "Escape Academy 2 11 月 5 日登陸 PS5",
+      "summary": "Back 2 School 11/5 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-warhammer-survivors",
+      "platform": "ps",
+      "date": "2026-10-14",
+      "title": "Warhammer Survivors 11 月 10 日上市",
+      "summary": "新角色公開；11/10 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     }
   ],
   "deals": [
@@ -461,6 +494,32 @@
       "url": "https://store.nintendo.com.hk/70010000021858",
       "source": "任天堂 HK API",
       "image": "https://www.nintendo.com/hk/software/img/bnr/KAMEN_RIDER.jpg"
+    },
+    {
+      "id": "hogwarts-legacy",
+      "platform": "ps",
+      "title": "Hogwarts Legacy（PS5）",
+      "discount": 85,
+      "price": "HK$82.20",
+      "was": "HK$548",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+      "source": "PS哥群報",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png"
+    },
+    {
+      "id": "mafia-3-de",
+      "platform": "ps",
+      "title": "Mafia III: Definitive Edition（PS5）",
+      "discount": 80,
+      "price": "HK$45.80",
+      "was": "HK$229",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1001-PPSA36864_00-MAFIA3DEPS500000",
+      "source": "PS哥群報",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202505/1622/b2172f3cb56ff12073ead33f8127867bdc7755a8c4e56522.png"
     }
   ]
 }
