@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-15T07:57:23+08:00",
-  "headline": "10月15日早。Steam 多款今晚／凌晨完（ARC／SM2／戰鎚3）；PS 港服至 10/21；Switch 宵星／幪面超人 10/18 完。",
+  "updated": "2026-10-15T07:58:00+08:00",
+  "headline": "10月15日早。Steam 今晚完 Sifu／狼二／Two Point；ARC 明日完；PS+ Extra 十月片單已出；Switch 機戰Ｔ／30 港服減。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 完結以商店倒數為準（多款標 10/16 01:00 HKT）；Switch／PS 跟群報完結時間。買之前再睇商店頁。",
+  "note": "價錢會變。Steam 完結以商店倒數為準；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。今日無群內新報，以港區／港服公開商店價更新。",
   "platforms": [
     {
       "id": "all",
@@ -24,29 +24,95 @@
   ],
   "news": [
     {
-      "id": "steam-ends-tonight",
+      "id": "steam-client-1013",
       "platform": "steam",
       "date": "2026-10-15",
-      "title": "多款 Steam 港區減價倒數至 10/16 01:00 HKT",
-      "summary": "ARC Raiders、Sekiro GOTY、Total War: WARHAMMER III、缺氧、CK3 等商店倒數指向今晚／凌晨完。",
-      "source": "Steam 港區",
-      "url": "https://store.steampowered.com/specials?cc=hk",
+      "title": "Steam Client Update（10/13）：Big Art Mode／Calendar 等",
+      "summary": "Stable 頻道更新：Big Art Mode、Personal Calendar、Big Picture screensaver 等。",
+      "source": "Steam",
+      "url": "https://store.steampowered.com/news/app/593110/view/1846651706672667",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593110/header.jpg"
+    },
+    {
+      "id": "steam-cooking-fest",
+      "platform": "steam",
+      "date": "2026-10-15",
+      "title": "Steam Cooking Fest 進行中",
+      "summary": "烹飪主題遊戲特賣／活動上架。",
+      "source": "Steam",
+      "url": "https://store.steampowered.com/news/app/593110/view/1846018067942273",
+      "region": "HK",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593110/header.jpg"
+    },
+    {
+      "id": "steam-arc-pve",
+      "platform": "steam",
+      "date": "2026-10-15",
+      "title": "ARC Raiders：PvE Toggle Beta（10/13–20）",
+      "summary": "限時開放 PvE 開關測試至 10/20。",
+      "source": "Steam",
+      "url": "https://store.steampowered.com/news/app/1808500/view/1846018067943915",
       "region": "HK",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg"
     },
     {
-      "id": "steam-sm2-featured",
-      "platform": "steam",
+      "id": "switch-it-takes-two",
+      "platform": "switch",
       "date": "2026-10-15",
-      "title": "Space Marine 2 港區 −75%（HK$99.75）上 Specials",
-      "summary": "Warhammer 40,000: Space Marine 2 現價 HK$99.75（原 HK$399）。",
-      "source": "Steam 港區 API",
-      "url": "https://store.steampowered.com/app/2183900/?cc=hk",
+      "title": "It Takes Two Switch 2 免費升級＋跨平台今日推出",
+      "summary": "擁有 Switch 1 版可免費升級；同日開 cross-play。",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
       "region": "HK",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg"
+      "image": "https://images.nintendolife.com/site/icon.png"
     },
     {
-      "id": "ps-plus-oct",
+      "id": "switch-castlevania-launch",
+      "platform": "switch",
+      "date": "2026-10-15",
+      "title": "Castlevania: Belmont's Curse 今日推出",
+      "summary": "惡魔城新作 Belmont's Curse 10/15 登陸 Switch。",
+      "source": "Nintendo",
+      "url": "https://www.nintendo.com/au/news-and-articles/upcoming-games-october-2026/",
+      "region": "HK",
+      "image": "https://images.nintendolife.com/site/icon.png"
+    },
+    {
+      "id": "switch-hypercharge",
+      "platform": "switch",
+      "date": "2026-10-15",
+      "title": "Hypercharge: Unboxed Switch 大型免費更新今日上架",
+      "summary": "跨平台、劇情模式、新地圖／武器／角色等。",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+      "region": "HK",
+      "image": "https://images.nintendolife.com/site/icon.png"
+    },
+    {
+      "id": "switch-metaphor-demo",
+      "platform": "switch",
+      "date": "2026-10-15",
+      "title": "暗喻幻想：ReFantazio Switch 2 序章體驗版仍開放",
+      "summary": "存檔可繼承至 11/12 正式版。",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/10/metaphor-refantazio-prologue-demo-for-switch-2-now-available",
+      "region": "HK",
+      "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Metaphor-Switch-2-Demo_10-13-26.jpg"
+    },
+    {
+      "id": "ps-extra-oct2026",
+      "platform": "ps",
+      "date": "2026-10-15",
+      "title": "PS+ Extra／Premium 十月片單公布（多數 10/20）",
+      "summary": "Mafia: The Old Country、Horizon Forbidden West、Mycopunk 等；Premium 加 Dino Crisis 2、RCT3。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
+      "region": "HK",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
+    },
+    {
+      "id": "ps-plus-oct-monthly",
       "platform": "ps",
       "date": "2026-10-15",
       "title": "10 月 PS+ 會免仍可領（至 11/2）",
@@ -57,52 +123,81 @@
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     },
     {
-      "id": "ps-players-choice",
+      "id": "ps-helldivers-warbond",
       "platform": "ps",
       "date": "2026-10-15",
-      "title": "港服 Players’ Choice／大幅減價多款至 10/21",
-      "summary": "Hogwarts Legacy −85%、Metro Exodus −90%、Dying Light 2 −80%、Space Marine 2 −75% 等仍生效。",
-      "source": "PSPrices／PlatPrices",
-      "url": "https://store.playstation.com/zh-hant-hk/pages/latest",
+      "title": "Helldivers 2：Scope of Authority Warbond（10/20）",
+      "summary": "Premium Warbond 10/20 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
       "region": "HK",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     },
     {
-      "id": "switch-ends-oct18",
-      "platform": "switch",
+      "id": "ps-escape-academy-2",
+      "platform": "ps",
       "date": "2026-10-15",
-      "title": "港服 eShop：宵星傳奇／幪面超人約 10/18 完",
-      "summary": "宵星傳奇 REMASTER −80% HK$78；KAMEN RIDER 英雄尋憶 −86% HK$68。MK11／Scribblenauts／樂高玩電影2 已於 10/14 完。",
-      "source": "NTPrices／港服",
-      "url": "https://store.nintendo.com.hk/digital-games/current-offers",
+      "title": "Escape Academy 2 11 月 5 日登陸 PS5",
+      "summary": "Back 2 School 11/5 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
       "region": "HK",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/70010000013581.jpg"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     },
     {
-      "id": "sega-atlus-oct",
-      "platform": "switch",
+      "id": "ps-warhammer-survivors",
+      "platform": "ps",
       "date": "2026-10-15",
-      "title": "SEGA／ATLUS「10月推薦特賣」進行中",
-      "summary": "含 P3 Reload 等；eShop 至約 10/20，PS Store 至約 10/21（以商店頁為準）。",
-      "source": "TechNow／PR TIMES",
-      "url": "https://technow.com.hk/games/1070562/",
+      "title": "Warhammer Survivors 11 月 10 日上市",
+      "summary": "新角色公開；11/10 推出。",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/10/06/warhammer-survivors-launches-november-10-new-characters-revealed/",
       "region": "HK",
-      "image": "https://images.nintendolife.com/site/icon.png"
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eXRgcigY8BPmYRyd8qrn6f4s.png"
     }
   ],
   "deals": [
     {
-      "id": "sm2-steam",
+      "id": "sifu",
       "platform": "steam",
-      "title": "Warhammer 40,000: Space Marine 2",
+      "title": "Sifu",
       "discount": 75,
-      "price": "HK$99.75",
-      "was": "HK$399.00",
+      "price": "HK$43.99",
+      "was": "HK$175.99",
       "region": "港區",
-      "url": "https://store.steampowered.com/app/2183900/?cc=hk",
+      "ends": "2026-10-16",
+      "url": "https://store.steampowered.com/app/2138710/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
-      "note": "今日 Specials 亮點；完結跟商店倒數。"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg",
+      "note": "MachineGames／週末優惠類倒數；約 10/16 01:00 HKT 完。"
+    },
+    {
+      "id": "wolfenstein2",
+      "platform": "steam",
+      "title": "Wolfenstein II: The New Colossus",
+      "discount": 85,
+      "price": "HK$46.50",
+      "was": "HK$310.00",
+      "region": "港區",
+      "ends": "2026-10-16",
+      "url": "https://store.steampowered.com/app/612880/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612880/header.jpg",
+      "note": "約 10/16 01:00 HKT 完。"
+    },
+    {
+      "id": "two-point-campus",
+      "platform": "steam",
+      "title": "Two Point Campus",
+      "discount": 90,
+      "price": "HK$23.80",
+      "was": "HK$238.00",
+      "region": "港區",
+      "ends": "2026-10-16",
+      "url": "https://store.steampowered.com/app/1649080/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649080/header.jpg",
+      "note": "約 10/16 01:00 HKT 完。"
     },
     {
       "id": "arc-raiders",
@@ -115,62 +210,7 @@
       "ends": "2026-10-16",
       "url": "https://store.steampowered.com/app/1808500/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
-      "note": "商店倒數約 10/16 01:00 HKT。"
-    },
-    {
-      "id": "tww3",
-      "platform": "steam",
-      "title": "Total War: WARHAMMER III",
-      "discount": 85,
-      "price": "HK$70.20",
-      "was": "HK$468.00",
-      "region": "港區",
-      "ends": "2026-10-16",
-      "url": "https://store.steampowered.com/app/1142710/?cc=hk",
-      "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
-      "note": "商店倒數約 10/16 01:00 HKT。"
-    },
-    {
-      "id": "sekiro",
-      "platform": "steam",
-      "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "discount": 50,
-      "price": "HK$199.00",
-      "was": "HK$398.00",
-      "region": "港區",
-      "ends": "2026-10-16",
-      "url": "https://store.steampowered.com/app/814380/?cc=hk",
-      "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-      "note": "商店倒數約 10/16 01:00 HKT。"
-    },
-    {
-      "id": "cyberpunk",
-      "platform": "steam",
-      "title": "Cyberpunk 2077",
-      "discount": 70,
-      "price": "HK$119.70",
-      "was": "HK$399.00",
-      "region": "港區",
-      "url": "https://store.steampowered.com/app/1091500/?cc=hk",
-      "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
-      "note": "完結跟 Steam 商店頁倒數。"
-    },
-    {
-      "id": "rdr2",
-      "platform": "steam",
-      "title": "Red Dead Redemption 2",
-      "discount": 75,
-      "price": "HK$117.00",
-      "was": "HK$468.00",
-      "region": "港區",
-      "url": "https://store.steampowered.com/app/1174180/?cc=hk",
-      "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-      "note": "完結跟 Steam 商店頁倒數。"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg"
     },
     {
       "id": "halo-mcc",
@@ -180,22 +220,37 @@
       "price": "HK$74.75",
       "was": "HK$299.00",
       "region": "港區",
+      "ends": "2026-10-20",
       "url": "https://store.steampowered.com/app/976730/?cc=hk",
       "source": "Steam 港區 API",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg",
-      "note": "完結跟 Steam 商店頁倒數。"
+      "note": "完結日跟 Steam 商店頁倒數（10/20 01:00 HKT）。"
     },
     {
-      "id": "gtav-enh",
+      "id": "rdr2",
       "platform": "steam",
-      "title": "Grand Theft Auto V Enhanced",
-      "discount": 56,
-      "price": "HK$154.00",
-      "was": "HK$350.00",
+      "title": "Red Dead Redemption 2",
+      "discount": 75,
+      "price": "HK$117.00",
+      "was": "HK$468.00",
       "region": "港區",
-      "url": "https://store.steampowered.com/app/3240220/?cc=hk",
+      "ends": "2026-10-23",
+      "url": "https://store.steampowered.com/app/1174180/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg"
+    },
+    {
+      "id": "tww3",
+      "platform": "steam",
+      "title": "Total War: WARHAMMER III",
+      "discount": 85,
+      "price": "HK$70.20",
+      "was": "HK$468.00",
+      "region": "港區",
+      "url": "https://store.steampowered.com/app/1142710/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
     },
     {
       "id": "sf6",
@@ -205,9 +260,75 @@
       "price": "HK$115.20",
       "was": "HK$288.00",
       "region": "港區",
+      "ends": "2026-10-22",
       "url": "https://store.steampowered.com/app/1364780/?cc=hk",
       "source": "Steam 港區 API",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg"
+    },
+    {
+      "id": "cyberpunk",
+      "platform": "steam",
+      "title": "Cyberpunk 2077",
+      "discount": 70,
+      "price": "HK$119.70",
+      "was": "HK$399.00",
+      "region": "港區",
+      "ends": "2026-10-27",
+      "url": "https://store.steampowered.com/app/1091500/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg"
+    },
+    {
+      "id": "phantom-liberty",
+      "platform": "steam",
+      "title": "電馭叛客 2077：自由幻局",
+      "discount": 40,
+      "price": "HK$119.40",
+      "was": "HK$199.00",
+      "region": "港區",
+      "url": "https://store.steampowered.com/app/2138330/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
+    },
+    {
+      "id": "sm2-steam",
+      "platform": "steam",
+      "title": "Warhammer 40,000: Space Marine 2",
+      "discount": 75,
+      "price": "HK$99.75",
+      "was": "HK$399.00",
+      "region": "港區",
+      "url": "https://store.steampowered.com/app/2183900/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
+    },
+    {
+      "id": "gta5-enhanced",
+      "platform": "steam",
+      "title": "Grand Theft Auto V 強化版",
+      "discount": 56,
+      "price": "HK$154.00",
+      "was": "HK$350.00",
+      "region": "港區",
+      "url": "https://store.steampowered.com/app/3240220/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
+    },
+    {
+      "id": "sekiro",
+      "platform": "steam",
+      "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "discount": 50,
+      "price": "HK$199.00",
+      "was": "HK$398.00",
+      "region": "港區",
+      "url": "https://store.steampowered.com/app/814380/?cc=hk",
+      "source": "Steam 港區 API",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
     },
     {
       "id": "deaths-door",
@@ -219,7 +340,8 @@
       "region": "港區",
       "url": "https://store.steampowered.com/app/894020/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數。"
     },
     {
       "id": "oni",
@@ -229,11 +351,10 @@
       "price": "HK$32.70",
       "was": "HK$109.00",
       "region": "港區",
-      "ends": "2026-10-16",
       "url": "https://store.steampowered.com/app/457140/?cc=hk",
       "source": "Steam 港區 API",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg",
-      "note": "商店倒數約 10/16 01:00 HKT。"
+      "note": "完結日跟 Steam 商店頁倒數。"
     },
     {
       "id": "ck3",
@@ -243,11 +364,10 @@
       "price": "HK$95.40",
       "was": "HK$318.00",
       "region": "港區",
-      "ends": "2026-10-16",
       "url": "https://store.steampowered.com/app/1158310/?cc=hk",
       "source": "Steam 港區 API",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/header.jpg",
-      "note": "商店倒數約 10/16 01:00 HKT。"
+      "note": "完結日跟 Steam 商店頁倒數。"
     },
     {
       "id": "ror2",
@@ -259,72 +379,34 @@
       "region": "港區",
       "url": "https://store.steampowered.com/app/632360/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
+      "note": "完結日跟 Steam 商店頁倒數"
     },
     {
-      "id": "yozora-remaster",
+      "id": "srw-t",
       "platform": "switch",
-      "title": "宵星傳奇 REMASTER",
-      "discount": 80,
-      "price": "HK$78",
-      "was": "HK$399",
+      "title": "超級機器人大戰Ｔ",
+      "discount": 82,
+      "price": "HK$98",
+      "was": "HK$559",
       "region": "港服 eShop",
-      "ends": "2026-10-18",
-      "url": "https://store.nintendo.com.hk/70010000013581",
-      "source": "NTPrices／港服",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/70010000013581.jpg"
+      "ends": "2026-11-01",
+      "url": "https://store.nintendo.com.hk/70010000015667",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/super_robot_wars_t.jpg"
     },
     {
-      "id": "kamen-rider",
+      "id": "srw-30",
       "platform": "switch",
-      "title": "KAMEN RIDER 英雄尋憶",
-      "discount": 86,
-      "price": "HK$68",
-      "was": "HK$479",
+      "title": "超級機器人大戰30",
+      "discount": 74,
+      "price": "HK$138",
+      "was": "HK$529",
       "region": "港服 eShop",
-      "ends": "2026-10-18",
-      "url": "https://store.nintendo.com.hk/70010000021858",
-      "source": "NTPrices／港服",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/KAMEN_RIDER.jpg"
-    },
-    {
-      "id": "god-wars",
-      "platform": "switch",
-      "title": "GOD WARS THE COMPLETE LEGEND",
-      "discount": 90,
-      "price": "HK$36",
-      "was": "HK$369",
-      "region": "港服 eShop",
-      "ends": "2026-10-20",
-      "url": "https://store.nintendo.com.hk/70010000012582",
-      "source": "NTPrices／港服",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/god_wars_the_complete_legend.jpg"
-    },
-    {
-      "id": "monark",
-      "platform": "switch",
-      "title": "罪惡王權／Monark",
-      "discount": 90,
-      "price": "HK$49",
-      "was": "HK$498",
-      "region": "港服 eShop",
-      "ends": "2026-10-21",
-      "url": "https://store.nintendo.com.hk/70010000042723",
-      "source": "NTPrices／港服",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/HAC-P-A3HCC.jpg"
-    },
-    {
-      "id": "tsum-tsum",
-      "platform": "switch",
-      "title": "Disney TSUM TSUM FESTIVAL",
-      "discount": 92,
-      "price": "HK$34",
-      "was": "HK$419",
-      "region": "港服 eShop",
-      "ends": "2026-10-25",
-      "url": "https://store.nintendo.com.hk/70010000022756",
-      "source": "NTPrices／港服",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/disney_tsum_tsum_festival.jpg"
+      "ends": "2026-11-01",
+      "url": "https://store.nintendo.com.hk/70010000032838",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/HAC-P-AYJVB.jpg"
     },
     {
       "id": "bakugan",
@@ -336,7 +418,7 @@
       "region": "港服 eShop",
       "ends": "2026-11-08",
       "url": "https://store.nintendo.com.hk/70010000028223",
-      "source": "NTPrices／港服",
+      "source": "任天堂 HK API",
       "image": "https://www.nintendo.com/hk/software/img/bnr/ba.jpg"
     },
     {
@@ -349,8 +431,34 @@
       "region": "港服 eShop",
       "ends": "2026-11-01",
       "url": "https://store.nintendo.com.hk/70010000019943",
-      "source": "NTPrices／港服",
+      "source": "任天堂 HK API",
       "image": "https://www.nintendo.com/hk/software/img/bnr/doraemon_story_of_seasons.jpg"
+    },
+    {
+      "id": "monark",
+      "platform": "switch",
+      "title": "罪惡王權／Monark",
+      "discount": 90,
+      "price": "HK$49",
+      "was": "HK$498",
+      "region": "港服 eShop",
+      "ends": "2026-10-21",
+      "url": "https://store.nintendo.com.hk/70010000042723",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/HAC-P-A3HCC.jpg"
+    },
+    {
+      "id": "yozora-remaster",
+      "platform": "switch",
+      "title": "宵星傳奇 REMASTER",
+      "discount": 80,
+      "price": "HK$78",
+      "was": "HK$399",
+      "region": "港服 eShop",
+      "ends": "2026-10-18",
+      "url": "https://store.nintendo.com.hk/70010000013581",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/70010000013581.jpg"
     },
     {
       "id": "borderlands-goty",
@@ -362,7 +470,7 @@
       "region": "港服 eShop",
       "ends": "2026-10-25",
       "url": "https://store.nintendo.com.hk/70010000022954",
-      "source": "NTPrices／港服",
+      "source": "任天堂 HK API",
       "image": "https://www.nintendo.com/hk/software/img/bnr/bord_game_of_the_year.jpg"
     },
     {
@@ -375,8 +483,47 @@
       "region": "港服 eShop",
       "ends": "2026-10-25",
       "url": "https://store.nintendo.com.hk/70070000012608",
-      "source": "NTPrices／港服",
+      "source": "任天堂 HK API",
       "image": "https://www.nintendo.com/hk/software/img/bnr/HACYARNGG000001.jpg"
+    },
+    {
+      "id": "tsum-tsum",
+      "platform": "switch",
+      "title": "Disney TSUM TSUM FESTIVAL",
+      "discount": 92,
+      "price": "HK$34",
+      "was": "HK$419",
+      "region": "港服 eShop",
+      "ends": "2026-10-25",
+      "url": "https://store.nintendo.com.hk/70010000022756",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/disney_tsum_tsum_festival.jpg"
+    },
+    {
+      "id": "god-wars",
+      "platform": "switch",
+      "title": "GOD WARS THE COMPLETE LEGEND",
+      "discount": 90,
+      "price": "HK$36",
+      "was": "HK$369",
+      "region": "港服 eShop",
+      "ends": "2026-10-20",
+      "url": "https://store.nintendo.com.hk/70010000012582",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/god_wars_the_complete_legend.jpg"
+    },
+    {
+      "id": "kamen-rider",
+      "platform": "switch",
+      "title": "KAMEN RIDER 英雄尋憶",
+      "discount": 86,
+      "price": "HK$68",
+      "was": "HK$479",
+      "region": "港服 eShop",
+      "ends": "2026-10-18",
+      "url": "https://store.nintendo.com.hk/70010000021858",
+      "source": "任天堂 HK API",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/KAMEN_RIDER.jpg"
     },
     {
       "id": "metro-exodus",
@@ -388,21 +535,21 @@
       "region": "港服 PS Store",
       "ends": "2026-10-21",
       "url": "https://store.playstation.com/zh-hant-hk/product/UP2047-PPSA02395_00-METROEXODUS0GEN9",
-      "source": "PlatPrices",
+      "source": "PS Store 港服",
       "image": "https://vulcan.dl.playstation.net/img/rnd/202010/2814/jhNIE3yH1SNEe9CmxTVHAdme.png"
     },
     {
-      "id": "hogwarts-legacy",
+      "id": "lego-sw-skywalker",
       "platform": "ps",
-      "title": "Hogwarts Legacy（PS5）",
+      "title": "LEGO 星球大戰：天行者傳奇",
       "discount": 85,
-      "price": "HK$82.20",
-      "was": "HK$548",
+      "price": "HK$70.2",
+      "was": "HK$468",
       "region": "港服 PS Store",
       "ends": "2026-10-21",
-      "url": "https://store.playstation.com/zh-hant-hk/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01",
-      "source": "PSPrices",
-      "image": "https://vulcan.dl.playstation.net/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png"
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP1018-PPSA01866_00-LEGOSWTSS0000000",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
     },
     {
       "id": "dl2",
@@ -414,7 +561,7 @@
       "region": "港服 PS Store",
       "ends": "2026-10-21",
       "url": "https://store.playstation.com/zh-hant-hk/product/UP3050-PPSA02261_00-DL2GAME0000000US",
-      "source": "PSPrices",
+      "source": "PS Store 港服",
       "image": "https://vulcan.dl.playstation.net/ap/rnd/202501/3115/3c17bf3bb4c9b5b572f69217554f0afdebade3a37959bac3.png"
     },
     {
@@ -427,8 +574,60 @@
       "region": "港服 PS Store",
       "ends": "2026-10-21",
       "url": "https://store.playstation.com/zh-hant-hk/product/EP4133-PPSA04451_00-SPACEMARINESII00",
-      "source": "PSPrices",
+      "source": "PS Store 港服",
       "image": "https://vulcan.dl.playstation.net/ap/rnd/202212/0711/MKweDX2LQpXiPcU6Jitg9KAg.png"
+    },
+    {
+      "id": "kcd2-ps",
+      "platform": "ps",
+      "title": "Kingdom Come: Deliverance II",
+      "discount": 65,
+      "price": "HK$198.80",
+      "was": "HK$568",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/EP4062-PPSA21704_00-KCD2MAINGAMEDSEU",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202408/1208/05a84ce968125d79fa36484c5a756a1c8d9b05622aae21c1.png"
+    },
+    {
+      "id": "bf6-ps",
+      "platform": "ps",
+      "title": "戰地風雲™ 6",
+      "discount": 60,
+      "price": "HK$219.60",
+      "was": "HK$549",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP0006-PPSA19534_00-SANTIAGOSTANDARD",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202507/2514/606363ddf40fc2a7ec23f78f5310de1d41008d316dc2c98d.png"
+    },
+    {
+      "id": "hogwarts-legacy",
+      "platform": "ps",
+      "title": "Hogwarts Legacy（PS5）",
+      "discount": 85,
+      "price": "HK$82.20",
+      "was": "HK$548",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1018-PPSA01593_00-HOGWARTSLEGACY01",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png"
+    },
+    {
+      "id": "mafia-3-de",
+      "platform": "ps",
+      "title": "Mafia III: Definitive Edition（PS5）",
+      "discount": 80,
+      "price": "HK$45.80",
+      "was": "HK$229",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1001-PPSA36864_00-MAFIA3DEPS500000",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202505/1622/b2172f3cb56ff12073ead33f8127867bdc7755a8c4e56522.png"
     }
   ]
 }
