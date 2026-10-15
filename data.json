@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:58:00+08:00",
+  "updated": "2026-10-15T08:01:35+08:00",
   "headline": "10月15日早。Steam 今晚完 Sifu／狼二／Two Point；ARC 明日完；PS+ Extra 十月片單已出；Switch 機戰Ｔ／30 港服減。",
   "region": "HK",
   "currency": "HKD",
@@ -299,10 +299,10 @@
       "price": "HK$99.75",
       "was": "HK$399.00",
       "region": "港區",
+      "ends": "2026-10-25",
       "url": "https://store.steampowered.com/app/2183900/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg",
-      "note": "完結日跟 Steam 商店頁倒數"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg"
     },
     {
       "id": "gta5-enhanced",
@@ -322,13 +322,13 @@
       "platform": "steam",
       "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
       "discount": 50,
-      "price": "HK$199.00",
+      "price": "HK$199",
       "was": "HK$398.00",
       "region": "港區",
+      "ends": "2026-10-16",
       "url": "https://store.steampowered.com/app/814380/?cc=hk",
       "source": "Steam 港區 API",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
-      "note": "完結日跟 Steam 商店頁倒數"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg"
     },
     {
       "id": "deaths-door",
@@ -628,6 +628,45 @@
       "url": "https://store.playstation.com/zh-hant-hk/product/UP1001-PPSA36864_00-MAFIA3DEPS500000",
       "source": "PS Store 港服",
       "image": "https://vulcan.dl.playstation.net/ap/rnd/202505/1622/b2172f3cb56ff12073ead33f8127867bdc7755a8c4e56522.png"
+    },
+    {
+      "id": "it-takes-two",
+      "platform": "ps",
+      "title": "It Takes Two（PS4&PS5）",
+      "discount": 70,
+      "price": "HK$95.70",
+      "was": "HK$319",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP0006-PPSA02342_00-ITTAKESTWORETAIL",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202012/0815/7CRynuLSAb0vysSC4TmZy5e4.png"
+    },
+    {
+      "id": "indiana-jones",
+      "platform": "ps",
+      "title": "Indiana Jones and the Great Circle",
+      "discount": 40,
+      "price": "HK$299.40",
+      "was": "HK$499",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1003-PPSA26786_00-INDIANAJONESATGC",
+      "source": "PS Store 港服",
+      "image": "https://vulcan.dl.playstation.net/ap/rnd/202502/1203/bac7ed51767fc46855424b4fbe42427cb6aee1bd06cab09b.png"
+    },
+    {
+      "id": "rdr2-ps",
+      "platform": "ps",
+      "title": "Red Dead Redemption 2（PS）",
+      "discount": 75,
+      "price": "HK$113",
+      "was": "HK$452",
+      "region": "港服 PS Store",
+      "ends": "2026-10-21",
+      "url": "https://store.playstation.com/zh-hant-hk/product/UP1004-CUSA03041_00-ASIAPLACEHOLDER0",
+      "source": "PS Store 港服",
+      "image": "https://apollo2.dl.playstation.net/cdn/UP1004/CUSA03041_00/D7SQ8jpGnNs8nfmKsPWZHmIr44NcoLG1Hju6m2sU5kobI5pLJD7bj8jD9pl6LoaG.png"
     }
   ]
 }
