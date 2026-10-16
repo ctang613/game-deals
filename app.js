@@ -17,8 +17,9 @@ function platformFromHash() {
 
 function formatDate(iso) {
   if (!iso) return "";
-  const [y, m, d] = iso.split("-");
-  return `${Number(m)}月${Number(d)}日`;
+  const match = String(iso).match(/^(\d{4})-(\d{2})-(\d{2})/);
+  if (!match) return "";
+  return `${Number(match[2])}月${Number(match[3])}日`;
 }
 
 function matches(item) {
