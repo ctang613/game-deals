@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-31T07:30:00+08:00",
-  "headline": "10月31日早。Steam Scream：Outlast／Dying Light／SotTR −90%；Switch 爆鑽等精選；PS Planet of the Deals 古墓奇兵系列 −90% 至 11/4 22:59。",
+  "updated": "2026-10-31T07:40:00+08:00",
+  "headline": "10月31日（補）。Steam Scream：Outlast／Dying Light／SotTR −90%；Switch Capcom 波：Resident Evil 系列約 −75%→$39 至 11/16；PS Planet of the Deals 古墓奇兵 −90% 至 11/4 22:59。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。",
+  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。Switch 午後補：Capcom 新上 Resident Evil 等。",
   "platforms": [
     {
       "id": "all",
@@ -54,33 +54,33 @@
       "region": "HK"
     },
     {
-      "id": "switch-news-digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-sw",
+      "id": "switch-news-guide-last-chance-to-grab-these-61-switch-1-2-games-in-nintendo-s-halloween-sale",
       "platform": "switch",
       "date": "2026-10-31",
-      "title": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
-      "summary": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+      "title": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
+      "summary": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
       "region": "HK"
     },
     {
-      "id": "switch-news-guide-best-nintendo-switch-1-2-horror-games",
+      "id": "switch-news-poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
       "platform": "switch",
       "date": "2026-10-31",
-      "title": "Guide: Best Nintendo Switch 1 & 2 Horror Games",
-      "summary": "Guide: Best Nintendo Switch 1 & 2 Horror Games",
+      "title": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
+      "summary": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/guides/best-nintendo-switch-1-and-2-horror-games",
+      "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
       "region": "HK"
     },
     {
-      "id": "switch-news-nintendo-showcases-every-switch-1-2-indie-world-game-in-new-infographic",
+      "id": "switch-news-cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-switch-2",
       "platform": "switch",
       "date": "2026-10-31",
-      "title": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
-      "summary": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
+      "title": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
+      "summary": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
+      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
       "region": "HK"
     },
     {
@@ -215,20 +215,6 @@
       "source": "switch.json"
     },
     {
-      "id": "switch-忍者寶盒",
-      "platform": "switch",
-      "title": "忍者寶盒",
-      "was": "HK$319",
-      "price": "HK$28",
-      "discount": 91,
-      "ends": "2026-11-15 23:59 HKT",
-      "url": "https://store.nintendo.com.hk/70010000023990",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/ninja_box.jpg",
-      "note": "",
-      "region": "HK",
-      "source": "switch.json"
-    },
-    {
       "id": "switch-哆啦a夢-牧場物語",
       "platform": "switch",
       "title": "哆啦A夢 牧場物語",
@@ -243,6 +229,34 @@
       "source": "switch.json"
     },
     {
+      "id": "switch-resident-evil",
+      "platform": "switch",
+      "title": "Resident Evil",
+      "was": "HK$156",
+      "price": "HK$39",
+      "discount": 75,
+      "ends": "2026-11-16 23:59 HKT",
+      "url": "https://store.nintendo.com.hk/70010000012853",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil.jpg",
+      "note": "🆕 Capcom 波",
+      "region": "HK",
+      "source": "switch.json"
+    },
+    {
+      "id": "switch-忍者寶盒",
+      "platform": "switch",
+      "title": "忍者寶盒",
+      "was": "HK$319",
+      "price": "HK$28",
+      "discount": 91,
+      "ends": "2026-11-15 23:59 HKT",
+      "url": "https://store.nintendo.com.hk/70010000023990",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/ninja_box.jpg",
+      "note": "",
+      "region": "HK",
+      "source": "switch.json"
+    },
+    {
       "id": "switch-dragon-s-dogma-dark-arisen",
       "platform": "switch",
       "title": "Dragon's Dogma: Dark Arisen",
@@ -252,6 +266,48 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000018691",
       "image": "https://www.nintendo.com/hk/software/img/bnr/dragon_dogma_dark_arisen.jpg",
+      "note": "🆕",
+      "region": "HK",
+      "source": "switch.json"
+    },
+    {
+      "id": "switch-monster-hunter-generations-ultimate",
+      "platform": "switch",
+      "title": "Monster Hunter Generations Ultimate™",
+      "was": "HK$308",
+      "price": "HK$75",
+      "discount": 76,
+      "ends": "2026-11-16 23:59 HKT",
+      "url": "https://store.nintendo.com.hk/70010000011025",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/mhgu.jpg",
+      "note": "🆕",
+      "region": "HK",
+      "source": "switch.json"
+    },
+    {
+      "id": "switch-resident-evil-4",
+      "platform": "switch",
+      "title": "Resident Evil 4",
+      "was": "HK$156",
+      "price": "HK$39",
+      "discount": 75,
+      "ends": "2026-11-16 23:59 HKT",
+      "url": "https://store.nintendo.com.hk/70010000012857",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil_4.jpg",
+      "note": "🆕",
+      "region": "HK",
+      "source": "switch.json"
+    },
+    {
+      "id": "switch-resident-evil-0",
+      "platform": "switch",
+      "title": "Resident Evil 0",
+      "was": "HK$156",
+      "price": "HK$39",
+      "discount": 75,
+      "ends": "2026-11-16 23:59 HKT",
+      "url": "https://store.nintendo.com.hk/70010000012849",
+      "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil_0.jpg",
       "note": "🆕",
       "region": "HK",
       "source": "switch.json"
@@ -299,20 +355,6 @@
       "source": "switch.json"
     },
     {
-      "id": "switch-lego-侏羅紀世界",
-      "platform": "switch",
-      "title": "LEGO® 侏羅紀世界",
-      "was": "HK$312",
-      "price": "HK$31",
-      "discount": 90,
-      "ends": "2026-11-11 23:59 HKT",
-      "url": "https://store.nintendo.com.hk/70010000022316",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/lego_jw.jpg",
-      "note": "",
-      "region": "HK",
-      "source": "switch.json"
-    },
-    {
       "id": "switch-真人快打11",
       "platform": "switch",
       "title": "真人快打11",
@@ -322,48 +364,6 @@
       "ends": "2026-11-11 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000018077",
       "image": "https://www.nintendo.com/hk/software/img/bnr/mk11.jpg",
-      "note": "",
-      "region": "HK",
-      "source": "switch.json"
-    },
-    {
-      "id": "switch-lego-marvel-超級英雄",
-      "platform": "switch",
-      "title": "LEGO® Marvel™超級英雄",
-      "was": "HK$312",
-      "price": "HK$34",
-      "discount": 89,
-      "ends": "2026-11-11 23:59 HKT",
-      "url": "https://store.nintendo.com.hk/70010000026608",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/HAC-P-AWCCA.jpg",
-      "note": "",
-      "region": "HK",
-      "source": "switch.json"
-    },
-    {
-      "id": "switch-caladrius-blaze",
-      "platform": "switch",
-      "title": "Caladrius Blaze",
-      "was": "HK$195",
-      "price": "HK$29",
-      "discount": 85,
-      "ends": "2026-11-04 23:59 HKT",
-      "url": "https://store.nintendo.com.hk/70010000017442",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/caladrius_blaze.jpg",
-      "note": "",
-      "region": "HK",
-      "source": "switch.json"
-    },
-    {
-      "id": "switch-超級機器人大戰v",
-      "platform": "switch",
-      "title": "超級機器人大戰V",
-      "was": "HK$449",
-      "price": "HK$78",
-      "discount": 83,
-      "ends": "2026-11-15 23:59 HKT",
-      "url": "https://store.nintendo.com.hk/70010000019765",
-      "image": "https://www.nintendo.com/hk/software/img/bnr/SRWV.jpg",
       "note": "",
       "region": "HK",
       "source": "switch.json"
