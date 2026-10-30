@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-31T07:40:00+08:00",
-  "headline": "10月31日（補）。Steam Scream：Outlast／Dying Light／SotTR −90%；Switch Capcom 波：Resident Evil 系列約 −75%→$39 至 11/16；PS Planet of the Deals 古墓奇兵 −90% 至 11/4 22:59。",
+  "updated": "2026-10-31T07:45:00+08:00",
+  "headline": "10月31日（再補）。Steam Scream −90%；Switch Capcom RE 波 $39；PS：Monster Hunter Rise −88%／古墓奇兵 −90%／RE4 −75% 至 11/4 22:59。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。Switch 午後補：Capcom 新上 Resident Evil 等。",
+  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。午後補：Switch Capcom；PS 換入 MH Rise／RE4。",
   "platforms": [
     {
       "id": "all",
@@ -84,13 +84,13 @@
       "region": "HK"
     },
     {
-      "id": "ps-news-playstation-store-planet-of-the-deals-進行中-至-11-4",
+      "id": "ps-news-playstation-plus-11月每月遊戲-dead-island-2-tomb-raider-iv-vi-remastered-monster-trai",
       "platform": "ps",
       "date": "2026-10-31",
-      "title": "PlayStation Store Planet of the Deals 進行中（至 11/4）",
-      "summary": "PlayStation Store Planet of the Deals 進行中（至 11/4）",
+      "title": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
+      "summary": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
       "source": "PlayStation",
-      "url": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
+      "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
       "region": "HK"
     },
     {
@@ -101,6 +101,16 @@
       "summary": "港服雙11購物節（實體周邊／遊戲）10/30–11/12",
       "source": "PlayStation",
       "url": "https://blog.zh-hant.playstation.com/2026/10/28/20261028-psstorehk/",
+      "region": "HK"
+    },
+    {
+      "id": "ps-news-搶先一窺光稜系列-ps5周邊設備推出三款全新透明設計",
+      "platform": "ps",
+      "date": "2026-10-31",
+      "title": "搶先一窺光稜系列，PS5周邊設備推出三款全新透明設計",
+      "summary": "搶先一窺光稜系列，PS5周邊設備推出三款全新透明設計",
+      "source": "PlayStation",
+      "url": "https://blog.zh-hant.playstation.com/2026/10/29/20261029-ps5/",
       "region": "HK"
     }
   ],
@@ -383,6 +393,20 @@
       "source": "switch.json"
     },
     {
+      "id": "ps-monster-hunter-rise",
+      "platform": "ps",
+      "title": "Monster Hunter Rise",
+      "was": "HK$308",
+      "price": "HK$36.96",
+      "discount": 88,
+      "ends": "2026-11-04 22:59 HKT",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP0102-PPSA08038_00-FULLGAME00000001",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1504/KzeHCTuoWLV4Cl7wkDA2YwCo.png",
+      "note": "PS5/PS4",
+      "region": "HK",
+      "source": "ps.json"
+    },
+    {
       "id": "ps-tomb-raider-definitive-edition",
       "platform": "ps",
       "title": "TOMB RAIDER DEFINITIVE EDITION",
@@ -411,16 +435,16 @@
       "source": "ps.json"
     },
     {
-      "id": "ps-航海王-尋秘世界",
+      "id": "ps-resident-evil-4",
       "platform": "ps",
-      "title": "航海王 尋秘世界",
-      "was": "HK$419",
-      "price": "HK$41.9",
-      "discount": 90,
+      "title": "Resident Evil 4",
+      "was": "HK$308",
+      "price": "HK$77",
+      "discount": 75,
       "ends": "2026-11-04 22:59 HKT",
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP0700-CUSA14016_00-ASIAFULLGAME0000",
-      "image": "https://image.api.playstation.com/cdn/HP0700/CUSA14016_00/XNl5IVdlrvTPYf60XvkQsX4o2fK7tfzb.png",
-      "note": "PS4",
+      "url": "https://store.playstation.com/zh-hant-hk/product/HP0102-PPSA09418_00-RE4RMAINGAME0000",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+      "note": "PS5/PS4",
       "region": "HK",
       "source": "ps.json"
     },
@@ -435,20 +459,6 @@
       "url": "https://store.playstation.com/zh-hant-hk/product/EP4133-PPSA02387_00-APLAGUETALEGAME0",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/F7bF4Lq7k7Wyf3UaeIfUo4hC.png",
       "note": "PS5/PS4",
-      "region": "HK",
-      "source": "ps.json"
-    },
-    {
-      "id": "ps-days-gone-remastered",
-      "platform": "ps",
-      "title": "Days Gone Remastered",
-      "was": "HK$398",
-      "price": "HK$159.2",
-      "discount": 60,
-      "ends": "2026-11-04 22:59 HKT",
-      "url": "https://store.playstation.com/zh-hant-hk/product/HP9000-PPSA28184_00-DAYSGONEREMASTER",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1302/b5142526ad615ce37f2b40d016e2dfc033d2d64492f667ad.png",
-      "note": "PS5",
       "region": "HK",
       "source": "ps.json"
     }
