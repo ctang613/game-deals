@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T07:30:00+08:00",
+  "updated": "2026-11-01T07:45:00+08:00",
   "headline": "11月1日早。Steam Scream：Outlast −90%／Outlast Trials −70% 至 11/3；Switch 爆鑽 $18；哆啦牧場／機戰Ｔ 今晚 23:59 完；PS MH Rise −88%／古墓奇兵 −90% 至 11/4 22:59。",
   "region": "HK",
   "currency": "HKD",
@@ -91,6 +91,16 @@
       "summary": "PlayStation Store Planet of the Deals 進行中（至 11/4）",
       "source": "PlayStation",
       "url": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
+      "region": "HK"
+    },
+    {
+      "id": "ps-news-playstation-plus-11月每月遊戲-dead-island-2-tomb-raider-iv-vi-remastered-monster-trai",
+      "platform": "ps",
+      "date": "2026-11-01",
+      "title": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
+      "summary": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
+      "source": "PlayStation",
+      "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
       "region": "HK"
     },
     {
