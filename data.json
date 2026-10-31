@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-31T07:45:00+08:00",
-  "headline": "10月31日（再補）。Steam Scream −90%；Switch Capcom RE 波 $39；PS：Monster Hunter Rise −88%／古墓奇兵 −90%／RE4 −75% 至 11/4 22:59。",
+  "updated": "2026-11-01T07:30:00+08:00",
+  "headline": "11月1日早。Steam Scream：Outlast −90%／Outlast Trials −70% 至 11/3；Switch 爆鑽 $18；哆啦牧場／機戰Ｔ 今晚 23:59 完；PS MH Rise −88%／古墓奇兵 −90% 至 11/4 22:59。",
   "region": "HK",
   "currency": "HKD",
-  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。午後補：Switch Capcom；PS 換入 MH Rise／RE4。",
+  "note": "價錢會變。Steam 完結以商店倒數為準（有硬戳先寫死 ends）；Switch／PS 跟商店／群報完結時間。買之前再睇商店頁。今晚 23:59 完（Switch）：哆啦牧場、超機Ｔ等。",
   "platforms": [
     {
       "id": "all",
@@ -26,7 +26,7 @@
     {
       "id": "steam-news-steam-beta-client-update-october-28th",
       "platform": "steam",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "title": "Steam Beta Client Update: October 28th",
       "summary": "Steam Beta Client Update: October 28th",
       "source": "Steam",
@@ -34,83 +34,73 @@
       "region": "HK"
     },
     {
-      "id": "steam-news-boo-steam-scream-five-is-ready-to-freak-you-out",
+      "id": "steam-news-steam-next-fest-is-back",
       "platform": "steam",
-      "date": "2026-10-31",
-      "title": "BOO! Steam Scream FIVE is ready to freak you out",
-      "summary": "BOO! Steam Scream FIVE is ready to freak you out",
+      "date": "2026-11-01",
+      "title": "Steam Next Fest is back!",
+      "summary": "Steam Next Fest is back!",
       "source": "Steam",
-      "url": "https://steamcommunity.com/games/593110/announcements/detail/686394429475394172",
+      "url": "https://steamcommunity.com/games/593110/announcements/detail/678512495722234490",
       "region": "HK"
     },
     {
-      "id": "steam-news-steam-s-personal-calendar-full-release",
+      "id": "steam-news-steam-achievement-sets-now-in-beta",
       "platform": "steam",
-      "date": "2026-10-31",
-      "title": "Steam's Personal Calendar Full Release",
-      "summary": "Steam's Personal Calendar Full Release",
+      "date": "2026-11-01",
+      "title": "Steam Achievement Sets Now in Beta",
+      "summary": "Steam Achievement Sets Now in Beta",
       "source": "Steam",
-      "url": "https://steamcommunity.com/games/593110/announcements/detail/710037059469839719",
+      "url": "https://steamcommunity.com/games/593110/announcements/detail/710037059469839142",
       "region": "HK"
     },
     {
-      "id": "switch-news-guide-last-chance-to-grab-these-61-switch-1-2-games-in-nintendo-s-halloween-sale",
+      "id": "switch-news-video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
       "platform": "switch",
-      "date": "2026-10-31",
-      "title": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
-      "summary": "Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)",
+      "date": "2026-11-01",
+      "title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
+      "summary": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe",
+      "url": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
       "region": "HK"
     },
     {
-      "id": "switch-news-poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
+      "id": "switch-news-video-11-exciting-new-games-coming-to-switch-1-2-in-november-2026",
       "platform": "switch",
-      "date": "2026-10-31",
-      "title": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
-      "summary": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
+      "date": "2026-11-01",
+      "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "summary": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/poll-so-have-you-got-the-zelda-40th-anniversary-switch-2",
+      "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
       "region": "HK"
     },
     {
-      "id": "switch-news-cronos-the-new-dawn-s-lazarus-dlc-launches-next-year-on-switch-2",
+      "id": "switch-news-nintendo-drops-surprise-pikmin-day-direct",
       "platform": "switch",
-      "date": "2026-10-31",
-      "title": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
-      "summary": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
+      "date": "2026-11-01",
+      "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+      "summary": "Nintendo Drops Surprise 'Pikmin Day' Direct",
       "source": "Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
       "region": "HK"
     },
     {
-      "id": "ps-news-playstation-plus-11月每月遊戲-dead-island-2-tomb-raider-iv-vi-remastered-monster-trai",
+      "id": "ps-news-playstation-store-planet-of-the-deals-進行中-至-11-4",
       "platform": "ps",
-      "date": "2026-10-31",
-      "title": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
-      "summary": "PlayStation Plus 11月每月遊戲：Dead Island 2、Tomb Raider IV–VI Remastered、Monster Train 2（11/3 起）",
+      "date": "2026-11-01",
+      "title": "PlayStation Store Planet of the Deals 進行中（至 11/4）",
+      "summary": "PlayStation Store Planet of the Deals 進行中（至 11/4）",
       "source": "PlayStation",
-      "url": "https://blog.zh-hant.playstation.com/2026/10/30/20261029-psplus/",
+      "url": "https://blog.playstation.com/2026/10/21/playstation-stores-planet-of-the-deals-promotion-is-live-now/",
       "region": "HK"
     },
     {
       "id": "ps-news-港服雙11購物節-實體周邊-遊戲-10-30-11-12",
       "platform": "ps",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "title": "港服雙11購物節（實體周邊／遊戲）10/30–11/12",
       "summary": "港服雙11購物節（實體周邊／遊戲）10/30–11/12",
       "source": "PlayStation",
       "url": "https://blog.zh-hant.playstation.com/2026/10/28/20261028-psstorehk/",
-      "region": "HK"
-    },
-    {
-      "id": "ps-news-搶先一窺光稜系列-ps5周邊設備推出三款全新透明設計",
-      "platform": "ps",
-      "date": "2026-10-31",
-      "title": "搶先一窺光稜系列，PS5周邊設備推出三款全新透明設計",
-      "summary": "搶先一窺光稜系列，PS5周邊設備推出三款全新透明設計",
-      "source": "PlayStation",
-      "url": "https://blog.zh-hant.playstation.com/2026/10/29/20261029-ps5/",
       "region": "HK"
     }
   ],
@@ -129,30 +119,32 @@
       "source": "steam.json"
     },
     {
-      "id": "steam-dying-light",
+      "id": "steam-the-outlast-trials",
       "platform": "steam",
-      "title": "Dying Light",
-      "was": "HK$186",
-      "price": "HK$18.6",
-      "discount": 90,
-      "url": "https://store.steampowered.com/app/239140/?cc=hk",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
+      "title": "The Outlast Trials",
+      "was": "HK$248",
+      "price": "HK$74.4",
+      "discount": 70,
+      "url": "https://store.steampowered.com/app/1304930/?cc=hk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
       "note": "HK 區；Steam Scream",
       "region": "HK",
-      "source": "steam.json"
+      "source": "steam.json",
+      "ends": "2026-11-03 02:00 HKT"
     },
     {
-      "id": "steam-shadow-of-the-tomb-raider-definitive-edition",
+      "id": "steam-sons-of-the-forest",
       "platform": "steam",
-      "title": "Shadow of the Tomb Raider: Definitive Edition",
-      "was": "HK$269",
-      "price": "HK$26.9",
-      "discount": 90,
-      "url": "https://store.steampowered.com/app/750920/?cc=hk",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
+      "title": "Sons Of The Forest",
+      "was": "HK$187",
+      "price": "HK$52.36",
+      "discount": 72,
+      "url": "https://store.steampowered.com/app/1326470/?cc=hk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
       "note": "HK 區",
       "region": "HK",
-      "source": "steam.json"
+      "source": "steam.json",
+      "ends": "2026-11-03 02:00 HKT"
     },
     {
       "id": "steam-resident-evil-4",
@@ -169,18 +161,18 @@
       "ends": "2026-11-04 02:00 HKT"
     },
     {
-      "id": "steam-sons-of-the-forest",
+      "id": "steam-no-man-s-sky",
       "platform": "steam",
-      "title": "Sons Of The Forest",
-      "was": "HK$187",
-      "price": "HK$52.36",
-      "discount": 72,
-      "url": "https://store.steampowered.com/app/1326470/?cc=hk",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "title": "No Man's Sky",
+      "was": "HK$365",
+      "price": "HK$146",
+      "discount": 60,
+      "url": "https://store.steampowered.com/app/275850/?cc=hk",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
       "note": "HK 區",
       "region": "HK",
       "source": "steam.json",
-      "ends": "2026-11-03 02:00 HKT"
+      "ends": "2026-11-10 02:00 HKT"
     },
     {
       "id": "switch-爆鑽小英雄-鑽頭樂園",
@@ -234,7 +226,7 @@
       "ends": "2026-11-01 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000019943",
       "image": "https://www.nintendo.com/hk/software/img/bnr/doraemon_story_of_seasons.jpg",
-      "note": "11/01 完",
+      "note": "今晚完",
       "region": "HK",
       "source": "switch.json"
     },
@@ -248,7 +240,7 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000012853",
       "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil.jpg",
-      "note": "🆕 Capcom 波",
+      "note": "Capcom 波",
       "region": "HK",
       "source": "switch.json"
     },
@@ -276,7 +268,7 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000018691",
       "image": "https://www.nintendo.com/hk/software/img/bnr/dragon_dogma_dark_arisen.jpg",
-      "note": "🆕",
+      "note": "Capcom 波",
       "region": "HK",
       "source": "switch.json"
     },
@@ -290,7 +282,7 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000011025",
       "image": "https://www.nintendo.com/hk/software/img/bnr/mhgu.jpg",
-      "note": "🆕",
+      "note": "Capcom 波",
       "region": "HK",
       "source": "switch.json"
     },
@@ -304,7 +296,7 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000012857",
       "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil_4.jpg",
-      "note": "🆕",
+      "note": "Capcom 波",
       "region": "HK",
       "source": "switch.json"
     },
@@ -318,7 +310,7 @@
       "ends": "2026-11-16 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000012849",
       "image": "https://www.nintendo.com/hk/software/img/bnr/resident_evil_0.jpg",
-      "note": "🆕",
+      "note": "Capcom 波",
       "region": "HK",
       "source": "switch.json"
     },
@@ -388,7 +380,7 @@
       "ends": "2026-11-01 23:59 HKT",
       "url": "https://store.nintendo.com.hk/70010000015667",
       "image": "https://www.nintendo.com/hk/software/img/bnr/super_robot_wars_t.jpg",
-      "note": "11/01 完",
+      "note": "今晚完",
       "region": "HK",
       "source": "switch.json"
     },
@@ -401,7 +393,7 @@
       "discount": 88,
       "ends": "2026-11-04 22:59 HKT",
       "url": "https://store.playstation.com/zh-hant-hk/product/HP0102-PPSA08038_00-FULLGAME00000001",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1504/KzeHCTuoWLV4Cl7wkDA2YwCo.png",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1701/UHtaN1GhCWdLiODRNcIky4tQ.png",
       "note": "PS5/PS4",
       "region": "HK",
       "source": "ps.json"
@@ -443,7 +435,7 @@
       "discount": 75,
       "ends": "2026-11-04 22:59 HKT",
       "url": "https://store.playstation.com/zh-hant-hk/product/HP0102-PPSA09418_00-RE4RMAINGAME0000",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0712/eIWVvJ1lPGytwBoxR67Ycqm0.png",
       "note": "PS5/PS4",
       "region": "HK",
       "source": "ps.json"
